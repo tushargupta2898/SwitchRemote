@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SwitchRemote</string>
+    <string name="todo2">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo18">TODO</string>
+    <string name="todo19">TODO</string>
+    <string name="light_1">LIGHT 1</string>
+    <string name="light_2">LIGHT 2</string>
+    <string name="light_3">LIGHT 3</string>
+    <string name="light_4">LIGHT 4</string>
+    <string name="fan">FAN</string>
+    <string name="todo1">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="all_on">ALL ON</string>
+    <string name="all_off">ALL OFF</string>
+    <string name="todo11">TODO</string>
+    <string name="ambience">AMBIENCE</string>
+
+</resources>
